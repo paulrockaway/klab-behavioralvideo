@@ -1,0 +1,4 @@
+README for klab-behavioralvideo git
+
+This code was create for the Kemere Lab (nel.rice.edu).
+It uses Qt to interface with a Firefly Point Grey camera.
